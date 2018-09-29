@@ -2,6 +2,7 @@
 /.htaccess
 /nginx.conf
 /upload
+/plugin/payment/config.php
 /protected/config.php
 /protected/cache
 /protected/view/adv
